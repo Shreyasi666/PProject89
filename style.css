@@ -1,0 +1,57 @@
+body
+{
+	background-color:hotpink ;
+    text-align: center;
+}
+
+.login_div1 
+{
+    background: rgb(160, 233, 255);
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    margin-left: 500px;
+}
+
+.login_div2
+	{
+		background: rgb(160, 233, 255);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        margin-left: 350px;
+        margin-top: 50px;
+	}
+
+    #player1_name , #player2_name
+    {
+       display: inline-block;
+       margin-left: 20px;
+       color: black;
+    }
+
+    #word
+    {
+       
+        font-size:larger;
+        font-weight: bold;
+        color: black;
+    }
+
+    #word2
+    {
+        font-style: italic;
+        color:rgb(255, 255, 255);
+    }
+
+    #button
+    {
+        margin-left: 100px;
+        margin-top:50px;
+    
+        background-color: chartreuse;
+        width: 300px;
+        height:30px;
+        font-weight: bold;
+        color: black;
+    }
